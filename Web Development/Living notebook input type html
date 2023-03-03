@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <title>practice input types</title>
+</head>
+<body>
+    <form method='method' action='action'>
+        <input type='text' name='name' placeholder='placeholder'>
+        <input type='submit' name='name' placeholder='placeholder'>
+        <input type='date' value='value'>
+    </form>
+    
+</body>
+</html>
+
+
