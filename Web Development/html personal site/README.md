@@ -15,7 +15,7 @@
     </table>
     
     
-    <hr
+    <hr>
     <p><h3>Schools and Teachings</h3></p>
     <ul>
         <li>Graduated<a href="https://www.wallace.edu/"> Wallace community college </a></li>
