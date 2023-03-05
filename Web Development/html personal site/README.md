@@ -7,7 +7,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="D:\Web Development\me 6.png" alt="Adelina profile pic"></td>
+            <td><img src="Web Development\me 6.png" alt="Adelina profile pic"></td>
             <td><h1>Adelina Tkatchenko</h1>
                 <p><em>Founder of this <strong>site</strong></em></p>
                 <p>I am a new developer. I love gardening and cheese</p></td>
